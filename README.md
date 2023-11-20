@@ -1,10 +1,7 @@
 ### Ola! Sou o Gustavo 👋
 ### Faço Engenharia de Controle e Automação e estou buscando aprender um pouco mais de conhecimento em programação
 
-<!--
-**gustavoldmf/gustavoldmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
