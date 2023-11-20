@@ -1,4 +1,4 @@
-################## Hii! My name's Gustavo 👋
+###                            Hii! My name's Gustavo 👋
 ### I'm studying Engeneering of Control and Automation at UFMG
 
 Currently i already worked with this programing lenguages:
