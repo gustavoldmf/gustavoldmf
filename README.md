@@ -1,10 +1,10 @@
 ###                            Hii! My name's Gustavo 👋
 ### I'm studying Engeneering of Control and Automation at UFMG
 
-Currently i already worked with this programing lenguages:
--> C
--> C++
--> PHP
+Currently have worked with this programing lenguages:
+- -> C
+- -> C++
+- -> PHP
 
 - ☀️ I’m currently working on a software of a odontological clinic using PHP
 Details -> This work was proposed in the OOP subject and the objective of all of the development
