@@ -1,14 +1,14 @@
-### Ola! Sou o Gustavo 👋
-### Faço Engenharia de Controle e Automação e estou buscando aprender um pouco mais de conhecimento em programação
+### Hii! My name's Gustavo 👋
+### I'm studying Engeneering of Control and Automation at UFMG
+
+Currently i already worked with this programing lenguages:
+-> C
+-> C++
+-> PHP
+
+- ☀️ I’m currently working on a software of a odontological clinic using PHP
+Details -> This work was proposed in the OOP subject and the objective of all of the development
+is create a backend of a odontological clinic using object-oriented programing(OOP), doing all
+the features of a real clinic including the process of budget, treatment, execution and financial things.
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
