@@ -5,6 +5,7 @@ Currently have worked with this programing lenguages:
 - -> C
 - -> C++
 - -> PHP
+- -> R
 
   ☀️ I’m currently working on a software of a odontological clinic using PHP
 - Details -> This work was proposed in the OOP subject and the objective of all of the development
