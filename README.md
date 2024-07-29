@@ -9,15 +9,19 @@ Currently have worked with this programing lenguages:
 
   ☀️ In the subjects of my course a heve the oportunity to do some jobs
   
-  - A multiplayer tenis game in 2D using C
-  Detais - -> This work was the first one i did and was a tenis game with the objective of
-hit a ball in the opposite direction to make a point, the game was buided with a firmware named Allegro and
-the acknoledges envolve a logic of programation with time and events with the chalenge of update the thigs that happen
+  - A multiplayer tennis game in 2D using C
+  Detais - -> This work was the first one I did and was a tennis game with the objective of
+hitting a ball in the opposite direction to make a point, the game was built with a firmware named Allegro and
+the knowledge involved programing logic with time and events with the challenge of updating the things that happen
 while the game is being played.
 
-  - A software of a odontological clinic using PHP
+  - A fight game using C++
+  Detais - -> This work was called Folclore Kombat and we created a fight game simulating all the process of damage, protection,
+ attacks,defenses, weakness and benefits to calibrate and program the characters, with this we do a system of attacks and
+ defenses to become a champion, the code is in a repository in my profile.
+
+  - A software of a dental clinic using PHP
   Details -> This work was proposed in the OOP subject and the objective of all of the development
-is create a backend of a odontological clinic using object-oriented programing(OOP), doing all
-the features of a real clinic including the process of budget, treatment, execution and financial things.
+is creating a backend of a odontological clinic using object-oriented programming(OOP), implementing all the features of a real clinic including the process of budgeting, treatment, execution and financial managment.
 
 
