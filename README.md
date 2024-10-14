@@ -6,6 +6,7 @@ Currently have worked with this programing lenguages:
 - -> C++
 - -> PHP
 - -> R
+- -> Python
 
   ☀️ In the subjects of my course a heve the oportunity to do some jobs
   
